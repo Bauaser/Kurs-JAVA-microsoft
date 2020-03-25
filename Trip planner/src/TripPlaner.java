@@ -1,5 +1,5 @@
-import java.math.RoundingMode;
 import java.util.*;
+import java.math.RoundingMode;
 
 public class TripPlaner {
     public static void main (String[]args){
